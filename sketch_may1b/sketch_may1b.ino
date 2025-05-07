@@ -1,7 +1,7 @@
 #include <OneWire.h>
 #include <DallasTemperature.h>
 #include "Adafruit_TinyUSB.h"
-
+#include <Adafruit_TinyUSB_MIDI.h>
 
 
 Adafruit_TinyUSB_MIDI MIDI;
